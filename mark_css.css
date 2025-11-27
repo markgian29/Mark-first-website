@@ -1,0 +1,52 @@
+    
+     
+
+    .TITLES {
+        font-family: Arial;
+        font-weight:bold;
+        font-size: 20px;
+        background-color: rgb(98, 98, 216);
+        color:rgb(0, 0, 0);
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-left: 550px;
+        margin-right: 550px;
+        margin-bottom: 50px;
+        border-radius: 15px;
+        margin-top: 50px;
+        border-style: dashed;
+    }
+
+
+
+    .INFO {
+       font-family: trebuchet MS;
+       font-size: 15px;
+       margin-left: 500px ;
+           
+}
+
+    .WORK {
+
+       margin-left: 730px;
+       font-weight: bold;
+}
+
+    button
+ {
+        background-color: rgb(4, 0, 255);
+        color: rgb(255, 255, 250);
+        border-color: rgb(8, 43, 169) ;
+        font-size: 15px;
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-style: Arial;
+        margin-top: 40px;
+        cursor: grab;
+        font-weight: bold;
+        
+
+    }
