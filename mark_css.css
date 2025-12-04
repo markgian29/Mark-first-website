@@ -1,38 +1,52 @@
-@media only screen and (max-width: 480px) { 
+    
+     
 
     .TITLES {
-        font-size: 18px;
-        margin-left: 20px;
-        margin-right: 20px;
-        padding-top: 15px;
-        padding-bottom: 15px;
-        margin-top: 30px;
-        margin-bottom: 30px;
+        font-family: Arial;
+        font-weight:bold;
+        font-size: 20px;
+        background-color: rgb(98, 98, 216);
+        color:rgb(0, 0, 0);
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-left: 550px;
+        margin-right: 550px;
+        margin-bottom: 50px;
+        border-radius: 15px;
+        margin-top: 50px;
+        border-style: dashed;
     }
+
+
 
     .INFO {
-        font-size: 14px;
-        margin-left: 20px;
-        margin-right: 20px;
-        line-height: 1.4;
-        text-align: left;
-    }
+       font-family: trebuchet MS;
+       font-size: 15px;
+       margin-left: 500px ;
+           
+}
 
     .WORK {
-        margin-left: 20px;
-        margin-right: 20px;
-        font-size: 15px;
-        text-align: left;
-    }
 
-    button {
-        width: 90%;
-        margin-left: 5%;
-        margin-right: 5%;
-        font-size: 16px;
-        padding: 15px;
-        border-radius: 10px;
-        margin-top: 30px;
-    }
-
+       margin-left: 730px;
+       font-weight: bold;
 }
+
+    button
+ {
+        background-color: rgb(4, 0, 255);
+        color: rgb(255, 255, 250);
+        border-color: rgb(8, 43, 169) ;
+        font-size: 15px;
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-style: Arial;
+        margin-top: 40px;
+        cursor: grab;
+        font-weight: bold;
+        
+
+    }
